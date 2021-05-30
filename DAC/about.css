@@ -282,6 +282,12 @@
         justify-content: center;
     }
     .container .row .col-md-6 .h2{
+        text-align: center;
+        justify-content: center;
+        padding-right:  100px; ;
+    }
+    .h2{
+        text-align: center;
         justify-content: center;
     }
     .about-content{
@@ -306,8 +312,8 @@
         
     }
     .navbar-brand >img {
-        width:100px;
-        height:100px;
+        width:200px;
+        height:50px;
         object-fit: contain;
     }
     .navbar-toggler{
